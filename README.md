@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sohaib Hussain
+- 👀 I’m SE @ Mindtree. Spent work time on C#.
+- 🌱 I’m currently learning ML & DL.
+- 💞️ I’m looking to collaborate on ML/DL practice projects. 
+- 📫 Catch me on sohaibhussain000@gmail.com
